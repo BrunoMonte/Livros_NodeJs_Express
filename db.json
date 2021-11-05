@@ -1,0 +1,19 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Turma da Monica",
+      "preço": "19.900"
+    },
+    {
+      "id": 2,
+      "titulo": "Freud",
+      "preço": "19.900"
+    },
+    {
+      "id": 3,
+      "titulo": "Freud",
+      "preço": "19.900"
+    }
+  ]
+}
